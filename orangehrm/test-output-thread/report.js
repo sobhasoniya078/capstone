@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"0b60b667-e8c5-4b3f-aefd-4e1264100f1d","feature":"Orange HRM Login Functionality","scenario":"login with valid credentials","start":1716440304856,"group":1,"content":"","tags":"@regressiontest,","end":1716440318215,"className":"passed"},{"id":"dfc65bbe-79bd-41aa-bb1a-d0b164b1170a","feature":"Orange HRM Login Functionality","scenario":"login with invalid credentials","start":1716440318232,"group":1,"content":"","tags":"@smoketest,","end":1716440327348,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
